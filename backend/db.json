@@ -1,0 +1,82 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que voce veio",
+      "autoria": "jade",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Meu umbigo é super limpinho",
+      "autoria": "lorrayne",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "eu dou a bundinha sempre",
+      "autoria": "pablo",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "Eu casaria com o dom João facilmente",
+      "autoria": "gabi",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 5,
+      "conteudo": "Eu amo meus kpop",
+      "autoria": "lari",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 6,
+      "conteudo": "ja terminei esse livro, muito bom",
+      "autoria": "mari",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 7,
+      "conteudo": "O santos esta de brincadeira esse ano né.",
+      "autoria": "carol",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 8,
+      "conteudo": "Tudo é energia",
+      "autoria": "bruna F",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 9,
+      "conteudo": "Queria muito ir no show da ludmilla",
+      "autoria": "pedro",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 10,
+      "conteudo": "Ninguem me ama",
+      "autoria": "Bruna L",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 11,
+      "conteudo": "na minha empresa só tem nome estranho rsrsrsrs",
+      "autoria": "Renata",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 12,
+      "conteudo": "vamos todos mudar de jogo....",
+      "autoria": "prepon",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "salve salve..................",
+      "autoria": "dundun",
+      "modelo": "modelo3",
+      "id": 28
+    }
+  ]
+}
