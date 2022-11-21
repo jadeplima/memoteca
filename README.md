@@ -14,11 +14,9 @@ Memoteca é um projeto desenvolvido na aula de Angular da plataforma Alura, util
 
 O projeto tem como finalidade criar uma plataforma de pensamentos, onde eu posso criar, editar e deletar os pensamentos. 
 
-<!-- 
-  ...
-  Local Reservado para o GIF do projeto rodando.
-  ...
--->
+https://user-images.githubusercontent.com/75194076/203130657-019a0ef8-61c2-4981-9c50-9dc842abd079.mp4
+
+
 
 ## **:computer: TECNOLOGIAS**
 
