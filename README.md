@@ -1,27 +1,68 @@
-# Memoteca
+<h1 align=center>
+<img src="https://user-images.githubusercontent.com/75194076/203121294-1305b663-fc86-4a0d-b559-9162e7117224.jpg" />
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<h3 align="center">
 
-## Code scaffolding
+Memoteca é um projeto desenvolvido na aula de Angular da plataforma Alura, utilizando as tecnologias ***TypeScript, Angular, HTML e CSS***.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+</h3>
 
-## Build
+## **:rocket: OBJETIVO**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+O projeto tem como finalidade criar uma plataforma de pensamentos, onde eu posso criar, editar e deletar os pensamentos. 
 
-## Running unit tests
+<!-- 
+  ...
+  Local Reservado para o GIF do projeto rodando.
+  ...
+-->
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## **:computer: TECNOLOGIAS**
 
-## Running end-to-end tests
+-  Angular
+-  TypeScript
+-  HTML
+-  CSS
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## **:wine_glass: COMO UTILIZAR**
 
-## Further help
+### Configurações Iniciais
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Primeiro, você precisa ter o <kbd>[NodeJS](https://nodejs.org/en/download/)</kbd> instalado na sua máquina. 
+Se você estiver utilizando o **Linux**, você pode optar por instalar o **Node** através do gerênciador de versões <kbd>[asdf]</kbd> para facilitar o processo de mudança da versão do **Node**, quando for necessário.
+
+Após ter o **Node** instalado, instale as dependências do **Angular** de forma global, utilizando os comandos:
+
+```sh
+# Angular:
+$ npm install -g @angular/cli
+
+```
+
+### Utilizando o Server
+
+```sh
+# Abrindo o terminal no diretório do servidor:
+$ cd backend
+
+# Executando a aplicação em modo de desenvolvimento:
+$ npm start
+
+```
+
+### Utilizando o Website
+
+```sh
+# Abrindo o terminal no diretório do website:
+$ cd memoteca
+
+# Executando o website no modo de desenvolvimento:
+$ ng serve
+```
+
+> Se o browser não abrir automaticamente, acesse: http://localhost:4200.
+
+
